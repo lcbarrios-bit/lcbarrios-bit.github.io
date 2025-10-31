@@ -1,0 +1,22 @@
+* {
+  font-family: Times New Roman, Times,serif;
+  color: #efdcf7;
+  text-align: center;
+}
+
+#content {
+  overflow: auto;
+  height: 100%;
+}
+
+.column1, .column2, .column3 {
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px;
+}
+html, body {
+  background-color: #8b0a95 !important;
+}
+
+
+
